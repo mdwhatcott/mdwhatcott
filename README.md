@@ -14,7 +14,7 @@ Feel free to call me Mike or Michael (I like both). I'm a husband, father, membe
 You'll find my work spread across various github organizations:
 
 1. [github.com/mdw-tools](https://github.com/mdw-tools): My hand-crafted tools
-1. [github.com/mdw-go](https://github.com/mdw-go): Various interesting Go modules
+1. [github.com/mdw-go](https://github.com/mdw-go): Various interesting [Go](https://go.dev) modules
 1. [github.com/mdw-aoc](https://github.com/mdw-aoc): My [Advent of Code](https://adventofcode.com) playground
 1. [github.com/mdw-katas](https://github.com/mdw-katas): Educational endeavors and training materials
 1. [github.com/mdw-smarty](https://github.com/mdw-smarty): Things I've accumulated during my work at [Smarty](https://www.smarty.com)
