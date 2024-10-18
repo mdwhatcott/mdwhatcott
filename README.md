@@ -18,5 +18,5 @@ You'll find my work spread across various github organizations:
 1. [github.com/mdw-aoc](https://github.com/mdw-aoc): My [Advent of Code](https://adventofcode.com) playground
 1. [github.com/mdw-katas](https://github.com/mdw-katas): Educational endeavors and training materials
 1. [github.com/mdw-smarty](https://github.com/mdw-smarty): Things I've accumulated during my work at [Smarty](https://www.smarty.com)
-1. [github.com/mdw-cc](https://github.com/mdw-cc): Things I've accumulated during my work at [CleanCoders Studio](https://cleancoders.com/)
+1. [github.com/mdw-cc](https://github.com/mdw-cc): Things I've accumulated during my work at [CleanCoders Studio](https://cleancoders.com/studio)
 1. [github.com/mdw-archives](https://github.com/mdw-archives): "Everything eventually washes up on these shores." (_The End_, Lemony Snicket)
