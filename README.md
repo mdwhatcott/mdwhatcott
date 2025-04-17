@@ -20,5 +20,9 @@ You'll find my work spread across various github organizations:
 1. [github.com/mdw-smarty](https://github.com/mdw-smarty): Things I've accumulated during my work at [Smarty](https://www.smarty.com)
 1. [github.com/mdw-cc](https://github.com/mdw-cc): Things I've accumulated during my work at [CleanCoders Studio](https://cleancoders.com/studio)
 1. [github.com/mdw-archives](https://github.com/mdw-archives): "Everything eventually washes up on these shores." (_The End_, Lemony Snicket)
+1. [github.com/smarty](https://github.com/smarty): Main GitHub organization of [Smarty](https://www.smarty.com), my current employer.
+1. [github.com/smartystreets](https://github.com/smartystreets): Former GitHub organization of [Smarty](https://www.smarty.com).
+1. [github.com/smarty-prototypes](https://github.com/smarty-prototypes): Interesting R&D from [Smarty](https://www.smarty.com).
+1. [github.com/smarty-archives](https://github.com/smarty-archives): Old stuff from [Smarty](https://www.smarty.com).
 
 > Namespaces are one honking great idea -- let's do more of those! (from _The Zen of Python_, by Tim Peters)
